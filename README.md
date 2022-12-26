@@ -1,6 +1,6 @@
 # DjangoDocker
 
-# To Start (Mac)
+## To Start (Mac)
 
 ```console
 python -m venv .venv
