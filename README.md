@@ -1,4 +1,4 @@
-# DjangoDocker
+# django-docker
 
 ## Run in Docker Container (localhost:8000)
 
